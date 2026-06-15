@@ -1,13 +1,15 @@
-# TaDELs-RAG 資料集
-
-實體導向之臺灣法律檢索增強生成評量資料集
+<h1 align="center">TaDELs-RAG 資料集：實體導向之臺灣法律檢索增強生成評估資料集</h1>
 
 <p align="center">
-  <a href="https://huggingface.co/datasets/ncku-sclab/tadels-qa">TaDELs-RAG 資料集</a>
-  ·
-  <a href="https://handed-hesitate-rummage.ngrok-free.dev/benchmark">線上提交</a>
-  ·
-  <a href="https://tadels.law.ncku.edu.tw/">TaDELS</a>
+  <a href="https://huggingface.co/datasets/ncku-sclab/tadels-qa">
+    <img src="https://img.shields.io/badge/%E8%B3%87%E6%96%99%E9%9B%86-Hugging%20Face-yellow" alt="資料集">
+  </a>
+  <a href="https://handed-hesitate-rummage.ngrok-free.dev/benchmark">
+    <img src="https://img.shields.io/badge/%E7%B7%9A%E4%B8%8A%E6%8F%90%E4%BA%A4-Submit-blue" alt="線上提交">
+  </a>
+  <a href="https://tadels.law.ncku.edu.tw/">
+    <img src="https://img.shields.io/badge/TaDELS-%E5%AE%98%E7%B6%B2-green" alt="TaDELS">
+  </a>
 </p>
 
 ---
