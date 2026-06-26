@@ -91,7 +91,8 @@ TaDELs-RAG 資料集的評分分為「檢索品質」與「生成品質」兩部
 
 | # | Name/Model | nDCG@5 | Total | Entity Matching Score | Hallucination Penalty | Hallucination Rate | N |
 | ---: | --- | ---: | ---: | ---: | ---: | ---: | ---: |
-| 1 | 周穆可/GPT 5.5 | 0.9755 | 0.8815 | 0.8386 | 0.0081 | 0.0326 | 101 |
+| 1 | 周穆可/Gemma 4 31B | 0.9763 | 0.9174 | 0.9067 | 0.0147 | 0.0396 | 101 |
+| 2 | 周穆可/GPT 5.5 | 0.9755 | 0.8815 | 0.8386 | 0.0081 | 0.0326 | 101 |
 
 > Hallucination Penalty 與 Hallucination Rate 越低越好；N 為計分題數。
 
